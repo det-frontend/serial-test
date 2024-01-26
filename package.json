@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "modbus-serial": "^8.0.16",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-serial-port-api": "^1.5.0",
+    "twrnc": "^3.6.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
